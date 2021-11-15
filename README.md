@@ -5,7 +5,7 @@
 <li> 👀 I’m interested in programming, coding, developing cloud and web based applications.</li>
 <li> 🌱 I’m currently learning .NET MVC, AWS.</li>
 <li> 💞️ I’m looking to collaborate on cloud based technologies.</li>
-<li> 👨‍💻 [About me](https://saishanmukkha.github.io)</li>
+<li> 👨‍💻 <a href="https://saishanmukkha.github.io">About Me</a></li>
 <li> 💬 Ask me about **Java, Python**</li>
 <li> ⚡ Fun fact **I love to do cook**</li>
 </ul>  
