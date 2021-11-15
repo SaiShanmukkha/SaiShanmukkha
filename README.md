@@ -7,7 +7,7 @@
 <li> 💞️ I’m looking to collaborate on cloud based technologies.</li>
 <li> 👨‍💻 <a href="https://saishanmukkha.github.io">About Me</a></li>
 <li> 💬 Ask me about **Java, Python**</li>
-<li> ⚡ Fun fact **I love to do cook**</li>
+<li> ⚡ I play Mobile Games</li>
 </ul>  
 <!---SaiShanmukkha/SaiShanmukkha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
