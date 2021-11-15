@@ -1,12 +1,12 @@
 ## 👋 Hi, I’m 
 <h1>Sai Shanmukkha</h1>
 <hr/>
-- 👀 I’m interested in programming, coding, developing cloud and web based applications.
-- 🌱 I’m currently learning .NET MVC, AWS.
-- 💞️ I’m looking to collaborate on cloud based technologies.
-- 👨‍💻 [About me](https://saishanmukkha.github.io)
-- 💬 Ask me about **Java, Python**
-- ⚡ Fun fact **I love to do cook**
+* 👀 I’m interested in programming, coding, developing cloud and web based applications.
+* 🌱 I’m currently learning .NET MVC, AWS.
+* 💞️ I’m looking to collaborate on cloud based technologies.
+* 👨‍💻 [About me](https://saishanmukkha.github.io)
+* 💬 Ask me about **Java, Python**
+* ⚡ Fun fact **I love to do cook**
 <!---SaiShanmukkha/SaiShanmukkha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
