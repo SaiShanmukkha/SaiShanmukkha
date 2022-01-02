@@ -18,8 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saishanmukkha" alt="saishanmukkha" /></a> </p>
 
-<h3>Certifications:</h2>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="381118e0-532f-45d1-a6dd-4a8ca971e618" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
