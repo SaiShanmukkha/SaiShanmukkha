@@ -3,10 +3,10 @@
 <hr/>
 <ul>
 <li> 👀 I’m interested in programming, coding, developing cloud based web applications.</li>
-<li> 🌱 I’m currently learning .NET MVC, AWS.</li>
+<li> 🌱 I’m currently woeking on AWS and have previously worked on .NET</li>
 <li> 💞️ I’m looking to collaborate on cloud based technologies.</li>
 <li> 👨‍💻 <a href="https://saishanmukkha.github.io">My Profile Website</a></li>
-<li> 💬 Ask me about **Web Development, AWS, Python**</li>
+<li> 💬 Ask me about **Web Development, AWS, Python, DevOps**</li>
 <li> ⚡ I play Mobile Games</li>
 </ul>  
 <!---SaiShanmukkha/SaiShanmukkha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
