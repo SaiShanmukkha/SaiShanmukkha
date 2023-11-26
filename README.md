@@ -1,6 +1,5 @@
-## 👋 Hi, I’m 
-<h1>Surapaneni, Sai Shanmukkha</h1>
-<hr/>
+## 👋 Hi, I’m Surapaneni, Sai Shanmukkha
+
 <ul>
   <li> 👀 I’m interested in developing cloud-based web applications.</li>
   <li> 🌱 I’m currently working on AWS and have previously worked on .NET</li>
