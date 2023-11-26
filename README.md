@@ -11,7 +11,7 @@
 
 <h2>Certifications</h2>
 <ul>
-  <li><a href="https://www.credly.com/badges/cc8b6c9f-7b76-4024-802b-956f1a673371/public_url">AWS Certified Solutions Architect Associate</a></li>
+  <li><a href="https://www.credly.com/badges/cc8b6c9f-7b76-4024-802b-956f1a673371/public_url">AWS Certified Solutions Architect - Associate</a></li>
   <li><a href="https://www.credly.com/badges/381118e0-532f-45d1-a6dd-4a8ca971e618/public_url">AWS Certified Developer - Associate</a></li>
 </ul>
 
