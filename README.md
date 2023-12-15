@@ -4,7 +4,7 @@
   <li> 👀 I’m interested in developing cloud-based web applications.</li>
   <li> 🌱 I’m currently working on AWS and have previously worked on .NET</li>
   <li> 💞️ I’m looking to collaborate on cloud-based technologies.</li>
-  <li> 👨‍💻 <a href="https://saishanmukkha.github.io">My Profile</a></li>
+  <li> 👨‍💻 <a href="https://saishanmukkha.vercel.app/">My Profile</a></li>
   <li> 💬 Ask me about ** Web Development, AWS, Python **</li>
   <li> ⚡ I play Mobile Games</li>
 </ul>  
