@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Shanmukkha Surapaneni</h1>
 <h3 align="center">Passionate Software Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saishanmukkha&label=Profile%20views&color=0e75b6&style=flat" alt="saishanmukkha" /> </p>
+
 - 🎓 I’m currently pursuing my Master's in Computer Science. 🧑‍🎓
   
 -  💼 I previously worked at Deloitte as an AWS Cloud Engineer for over 1.5 years. 👷‍♂️
@@ -30,7 +32,7 @@
     </a>
 </span>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saishanmukkha&label=Profile%20views&color=0e75b6&style=flat" alt="saishanmukkha" /> </p>
+<h3></h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saishanmukkha" alt="saishanmukkha" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
