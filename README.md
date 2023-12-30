@@ -15,6 +15,8 @@
 
 - 📫 How to reach me: [Mail 📧](mailto:saishanmukkha@gmail.com)
 
+- **Fun Fact About Me**: 👨‍🍳 I'm always in the kitchen! Whether it's experimenting with new recipes or perfecting old favorites, I find joy and creativity in cooking up delicious meals.
+
 
 <h2>Certifications</h2>
 <span>
