@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blog Site and Budget Tracker Application** using Next.js Framework.
 
-- 🌱 I’m currently learning **Advanced AWS Services, Express.js, etc.**
+- 🌱 I’m currently learning **System Design, Advanced AWS Services.**
 
 - 👨‍💻 All of my projects are available at [https://saishanmukkha.vercel.app/](https://saishanmukkha.vercel.app/)
 
