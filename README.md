@@ -52,10 +52,13 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saishanmukkha&show_icons=true&locale=en" alt="saishanmukkha" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saishanmukkha&show_icons=true&locale=en&layout=compact" alt="saishanmukkha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saishanmukkha&" alt="saishanmukkha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saishanmukkha&show_icons=true&locale=en&theme=merko" alt="saishanmukkha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saishanmukkha&show_icons=true&locale=en&layout=compact&theme=merko" alt="saishanmukkha" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saishanmukkha&" alt="saishanmukkha" /></p> -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=saishanmukkha&theme=merko)](https://git.io/streak-stats)
 
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=saishanmukkha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
