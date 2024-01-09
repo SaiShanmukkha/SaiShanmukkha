@@ -56,7 +56,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saishanmukkha&show_icons=true&locale=en&layout=compact&theme=merko" alt="saishanmukkha" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saishanmukkha&" alt="saishanmukkha" /></p> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saishanmukkha&theme=merko)](https://git.io/streak-stats)
 
 
 ### 🔝 Top Contributed Repo
