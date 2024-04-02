@@ -7,13 +7,13 @@
   
 -  💼 I previously worked at Deloitte as an AWS Cloud Engineer for over 1.5 years. 👷‍♂️
 
-- 🔭 I’m currently working on **Blog Site and Budget Tracker Application** using Next.js Framework.
+- 🔭 I’m currently working on **Blog Site** using Next.js Framework.
 
 - 🌱 I’m currently learning **System Design, Advanced AWS Services.**
 
 - 👨‍💻 All of my projects are available at [https://saishanmukkha.vercel.app/](https://saishanmukkha.vercel.app/)
 
-- 💬 Ask me about **Next.js, AWS, Python.**
+- 💬 Ask me about **Next.js, AWS Cloud, Python.**
 
 - 📫 How to reach me: [Mail 📧](mailto:saishanmukkha@gmail.com)
 
